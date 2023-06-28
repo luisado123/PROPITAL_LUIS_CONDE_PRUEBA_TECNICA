@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>API_LUIS_CONDE_PERSONALSOFT</RootNamespace>
+    <RootNamespace>API_LUIS_CONDE_PROPITAL</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
